@@ -3,7 +3,7 @@
 Coder Manual Project Application
 Subscription-based web application
 
-https://guarded-tor-6831.herokuapp.com/
+http://guarded-tor-6831.herokuapp.com/
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
